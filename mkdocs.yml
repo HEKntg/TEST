@@ -1,0 +1,6 @@
+site_name: My Docs
+#pages:
+#- 首页: index.md
+#- 测试: test.md
+
+theme: readthedocs
