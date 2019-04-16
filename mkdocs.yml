@@ -1,6 +1,7 @@
-site_name: My Docs
-#pages:
-#- 首页: index.md
-#- 测试: test.md
-
+site_name: KingCreate-R&D
+pages:
+- KRAS-NRAS-BRAF-PI3KCA基因突变检测国家参考品说明书: index2.md
+- EGFR-ALK-MET基因突变检测国家参考品说明书: index3.md
+- 海吉力-人类EGFR基因突变检测试剂盒（荧光PCR法）说明书: index4.md
+- 人表皮生长因子受体（EGFR）突变基因检测试剂技术审查指导原则(征求意见稿): index.md
 theme: readthedocs
